@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{height: 100%;
+    width: 100%;
+    background: linear-gradient(#48649f , #3b5998);
+    border-bottom: 100px solid #253a69;
+}
+.logo{
+    position: absolute;
+    height: 63px;
+    width: 190px;
+    left: 30%;
+    padding-top: 15px;
+}
+.login_form{
+    display: flex;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 58%;
+    top: 15px;
+}
+.login_form .email,
+.login_form.font{
+    padding: left 10px;
+    color: white;
+}
+
+
+.login_form.email.font,
+.login_form.password.font{font-size: 25px;
+    padding-bottom: 6px;
+    color: white;
+
+}
+.login_form.email input,
+.login_form.password input{
+    height: 23px; 
+    width: 150px; 
+    padding-left:5px ;
+    border: 1px solid black;
+    outline: none;
+    
+}
+.login_btn{
+    height: 24px;
+    width: 50px;
+    font-weight: 600;
+    margin-left: 15px;
+    margin-top: 20px;
+    border-radius:2px ;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background: #2d5bba;
+    border: 1px solid #224285;
+
+}
+.login_btn:hover{
+    background-color:#2d5bba ;
+}
+section{
+    height: 614px;
+    width: 100px;
+    top: 800px;
+    background: linear-gradient(#fdfdfe,#eff1f6,#e3e6f0,#d6dbea);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: no-repeat;
+    color: darkblue;
+    
+}
+.logo_body{
+    position: absolute;
+    left: 15%;
+    top: 20%;
+}
+.logo_body.like font1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-left: -30px;
+    padding: 12px;
+    
+}
+.logo_body.like font2{
+    color: #224285;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
